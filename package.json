@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "get started with gulp nodejs angularjs and other",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "A.K",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "cron": "^1.1.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.2.0",
+    "node-cron": "^1.1.1",
+    "request": "^2.69.0",
+    "vow": "^0.4.12"
+  }
+}
